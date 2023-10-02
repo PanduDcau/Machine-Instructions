@@ -1,0 +1,3 @@
+Os1 - Without implementing Init File
+Os2 - Compile your init program with Modification done by myself
+Os3 and Os4 - Using qemu producing necessary output. (When typing a word cild process initialized and showing duplicate of typed Word)
